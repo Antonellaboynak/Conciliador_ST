@@ -79,15 +79,6 @@ La app se abre automáticamente en `http://localhost:8501`
 
 ---
 
-## Publicación en Streamlit Cloud
-
-1. Subir `app.py` y `requirements.txt` a un repositorio público de GitHub.
-2. Ingresar a [streamlit.io/cloud](https://streamlit.io/cloud) y conectar la cuenta de GitHub.
-3. Seleccionar el repositorio y el archivo `app.py` como punto de entrada.
-4. Hacer clic en **Deploy** — la app queda disponible en una URL pública.
-
----
-
 ## Estructura del repositorio
 
 ```
